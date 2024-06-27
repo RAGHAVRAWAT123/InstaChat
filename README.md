@@ -62,4 +62,4 @@ Before running the application, ensure you have the following prerequisites inst
    
     npm start
 
-6.Open your browser and visit http://localhost:3000 to access the chat application.
+- **Open your browser and visit http://localhost:3000 to access the chat application.**
