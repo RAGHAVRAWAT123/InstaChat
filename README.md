@@ -40,25 +40,25 @@ Before running the application, ensure you have the following prerequisites inst
 
 ### Installation
 
-1.Clone the Repository:
+- **Clone the Repository**:
  
-  git clone <repository_url>
+    git clone <repository_url>
 
-2.Navigate to the Frontend Directory and Install Dependencies:
+- **Navigate to the Frontend Directory and Install Dependencies**:
   
-   cd frontend
-   npm install
+    cd frontend
+    npm install
 
-3.Start the Frontend Server:
+- **Start the Frontend Server**:
 
     npm run dev
 
-4.Navigate to the Backend Directory and Install Dependencies:
+- **Navigate to the Backend Directory and Install Dependencies**:
    
     cd ../backend
     npm install
 
-5.Start the Backend Server:
+- **Start the Backend Server**:
    
     npm start
 
