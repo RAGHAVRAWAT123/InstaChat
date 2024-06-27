@@ -40,31 +40,26 @@ Before running the application, ensure you have the following prerequisites inst
 
 ### Installation
 
-1. Clone the Repository:
-
-  ```bash
+1.Clone the Repository:
+ 
   git clone <repository_url>
 
-2. Navigate to the Frontend Directory and Install Dependencies:
+2.Navigate to the Frontend Directory and Install Dependencies:
   
-   ```bash
    cd frontend
    npm install
 
-3. Start the Frontend Server:
+3.Start the Frontend Server:
 
-   ```bash
-   npm run dev
+    npm run dev
 
-4. Navigate to the Backend Directory and Install Dependencies:
+4.Navigate to the Backend Directory and Install Dependencies:
    
-   ```bash
-   cd ../backend
-   npm install
+    cd ../backend
+    npm install
 
-5. Start the Backend Server:
+5.Start the Backend Server:
    
-   ```bash
-   npm start
+    npm start
 
 6.Open your browser and visit http://localhost:3000 to access the chat application.
